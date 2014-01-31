@@ -3,6 +3,9 @@ require('jquery-trigger-native');
 require('jquery-first-child');
 require('jquery-waiter');
 require('simplemodal');
+require('jquery-ellipsis');
+require('bootstrap');
+
 
 var jQuery = require('jquery');
 

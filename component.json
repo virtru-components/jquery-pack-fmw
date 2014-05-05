@@ -2,7 +2,7 @@
   "name": "jquery-pack-fmw",
   "repo": "virtru-components/jquery-pack-fmw",
   "description": "jQuery built for FMW site (webviewer and dashboard)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "components/jquery": "2.1.0",
     "virtru-components/jquery-ellipsis": "1.0.10",

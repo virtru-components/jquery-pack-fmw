@@ -6,7 +6,8 @@
   "dependencies": {
     "components/jquery": "2.1.0",
     "virtru-components/jquery-ellipsis": "1.0.10",
-    "virtru-components/bootstrap": "3.0.1"
+    "virtru-components/bootstrap": "3.0.1",
+    "virtru-components/bootstrap-offcanvas": "0.0.1"
   },
   "scripts": [
     "index.js"
